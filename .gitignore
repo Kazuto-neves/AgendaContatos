@@ -27,13 +27,13 @@
 *.VC.db
 
 ## VS Code
+# VS Code files for those working on multiple tools
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-.history/
-.ionide/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.code-workspace
 
 ## .NET Core / NuGet
 project.lock.json
