@@ -72,6 +72,12 @@ curl "http://localhost:5299/api/v1/orders?page=1&pageSize=10"
 ./compare.sh --format csv
 ~~~
 
+## HTML
+
+~~~shell
+./compare.sh --format html
+~~~
+
 ## Tudo
 
 ~~~shell
